@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://raw.githubusercontent.com/Eberewilson/Eberewilson/master/githubreadme.png" alt="banner that says Ebere Wilson = Full Stack Developer | UI/UX Designer">
+<img src="https://raw.githubusercontent.com/Eberewilson/Eberewilson/master/gh-image.png" alt="banner that says Ebere Wilson = Full Stack Developer | UI/UX Designer I design and develop things.">
 
 - 🌱 I’m always learning something new
 - ⚡ Fun fact: I enjoy having chocolate flavoured food/drinks
