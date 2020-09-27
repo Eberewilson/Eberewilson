@@ -15,7 +15,7 @@ Hi, I'm Ebere - A UI/UX Designer and Full Stack Dev (looking to specilaize in ba
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-### 🔭 My Goals for 2020
+### 🔭 My Goals for 2020/2021
 To master my skills and become an expert in my field. <br>
 To build healthy connections that will push me and help make a difference in the community.
 
