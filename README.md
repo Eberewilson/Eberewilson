@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Eberewilson/Eberewilson/blob/master/gh-image.png">
 
-Hi, I'm Ebere - A UI/UX Designer and Full Stack Dev (looking to specilaize in backend and mobile dev). Welcome to my gh page.
+Hi, I'm Ebere - A Full Stack Dev and a UI/UX Designer. Welcome to my gh page.
 
 ----------------------------------------------------------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ Hi, I'm Ebere - A UI/UX Designer and Full Stack Dev (looking to specilaize in ba
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-### 🔭 My Goals for 2020/2021
+### 🔭 My Goals for 2021
 To master my skills and become an expert in my field. <br>
 To build healthy connections that will push me and help make a difference in the community.
 
@@ -31,9 +31,10 @@ To build healthy connections that will push me and help make a difference in the
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-- 🌱 I’m currently learning Python and Open Source
-- 🤔 I’m looking for help with getting a full time entry level job and becoming a great backend, mobile dev.
+- 🌱 I’m currently learning Open Source
+- 🤔 I’m looking for help with getting a full time entry level job and becoming a great developer.
 - ⚡ Fun fact: My favourite fruit is pineapple and I enjoy watching cartoons.
+- 😄 Pronouns: 'Your Majesty'
 - 📫 How to reach me: eberewilson25@gmail.com
 
 
@@ -45,5 +46,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
-- 😄 Pronouns: ...
 -->
