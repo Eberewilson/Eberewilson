@@ -25,9 +25,8 @@ To build healthy connections that will push me and help make a difference in the
 - Html | CSS | Javascript | Bootstrap 
 - Node.js and Express.js
 - MySQL | PostgreSQL
-- Ionic
 - Git
-- Figma | Adobe XD
+- Figma | Adobe XD | WebFlow 
 
 -----------------------------------------------------------------------------------------------------------------------------
 
