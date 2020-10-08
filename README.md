@@ -26,7 +26,7 @@ To build healthy connections that will push me and help make a difference in the
 - Node.js and Express.js
 - MySQL | PostgreSQL
 - Git
-- Figma | Adobe XD | WebFlow 
+- Figma | Adobe XD
 
 -----------------------------------------------------------------------------------------------------------------------------
 
