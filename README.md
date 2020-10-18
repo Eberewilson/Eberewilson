@@ -31,7 +31,7 @@ To build healthy connections that will push me and help make a difference in the
 -----------------------------------------------------------------------------------------------------------------------------
 
 - 🌱 I’m currently learning Open Source
-- 🤔 I’m looking for help with getting a full time entry level job and becoming a great developer.
+- 🤔 I’m looking for help with becoming a great developer.
 - ⚡ Fun fact: My favourite fruit is pineapple and I enjoy watching cartoons.
 - 😄 Pronouns: 'Your Majesty'
 - 📫 How to reach me: eberewilson25@gmail.com
