@@ -24,6 +24,7 @@ To build healthy connections that will push me and help make a difference in the
 ### :woman_technologist: Tech Stacks
 - Html | CSS | Javascript | Bootstrap 
 - Node.js and Express.js
+- Socket.io
 - MySQL | PostgreSQL
 - Git
 - Figma | Adobe XD
