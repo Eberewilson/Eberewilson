@@ -25,7 +25,7 @@ To build healthy connections that will push me and help make a difference in the
 - Html | CSS | Javascript | Bootstrap 
 - Node.js and Express.js
 - Socket.io
-- PostgreSQL
+- SQL | PostgreSQL
 - Git
 - Figma | Adobe XD
 
