@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Eberewilson/Eberewilson/blob/master/gh-image.png">
 
-Hi, I'm Ebere - A Full Stack Dev and a UI/UX Designer. Welcome to my gh page.
+Hi, I'm Ebere - A UI/UX Designer & Developer. Welcome to my gh page.
 
 ----------------------------------------------------------------------------------------------------------------------------
 
@@ -22,17 +22,13 @@ To build healthy connections that will push me and help make a difference in the
 ------------------------------------------------------------------------------------------------------------------------------
 
 ### :woman_technologist: Tech Stacks
-- Html | CSS | Javascript | Bootstrap 
-- Node.js and Express.js
-- Socket.io
-- SQL | PostgreSQL
-- Git
-- Figma | Adobe XD
+- Html | CSS | Bootstrap | Javascript
+- Figma | Adobe XD | Marvel | Invision
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-- 🌱 I’m currently learning Open Source
-- 🤔 I’m looking for help with becoming a great developer.
+- 🌱 I’m currently learning to.....
+- 🤔 I’m looking for help with becoming a great designer & developer.
 - ⚡ Fun fact: My favourite fruit is pineapple and I enjoy watching cartoons.
 - 😄 Pronouns: 'Your Majesty'
 - 📫 How to reach me: eberewilson25@gmail.com
