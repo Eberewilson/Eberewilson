@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Eberewilson/Eberewilson/blob/master/gh-image.png">
 
-Hi, I'm Ebere - A UI/UX Designer & Developer. Welcome to my gh page.
+Hi, I'm Ebere - A UI/UX Designer with an Interest in Web Development. Welcome to my gh page.
 
 ----------------------------------------------------------------------------------------------------------------------------
 
@@ -21,13 +21,13 @@ To build healthy connections that will push me and help make a difference in the
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-### :woman_technologist: Tech Stacks
+### :woman_technologist: Techs & Languages
 - Html | CSS | Bootstrap | Javascript
 - Figma | Adobe XD | Marvel | Invision
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-- 🌱 I’m currently learning to.....
+- 🌱 I’m currently learning to be the best I can be.
 - 🤔 I’m looking for help with becoming a great designer & developer.
 - ⚡ Fun fact: My favourite fruit is pineapple and I enjoy watching cartoons.
 - 😄 Pronouns: 'Your Majesty'
