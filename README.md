@@ -1,6 +1,6 @@
 ### Hi :superhero_woman:
 
-<img src="">
+<img src="https://github.com/Eberewilson/Eberewilson/blob/master/gh-image.png">
 
 Hi, I'm Ebere - A UI/UX Designer with an Interest in Web Development. Welcome to my gh page.
 
