@@ -22,8 +22,8 @@ To build healthy connections that will push me and help make a difference in the
 ------------------------------------------------------------------------------------------------------------------------------
 
 ### :woman_technologist: Techs & Languages
-- Html | CSS | Bootstrap | Javascript
-- Figma | Adobe XD | Marvel | Invision
+- Html | CSS | Bootstrap
+- Figma | Adobe XD | Marvel | Webflow | Miro
 
 -----------------------------------------------------------------------------------------------------------------------------
 
